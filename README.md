@@ -1,5 +1,5 @@
 ## projection_bigscreen投影大屏打分端
-
+![image](https://github.com/hubjun/projection_bigscreen_scoring/blob/master/picture.png)
 ## Project setup
 ```
 npm install
