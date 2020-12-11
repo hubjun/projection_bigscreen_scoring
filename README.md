@@ -1,4 +1,4 @@
-# bigscreen_pc
+## projection_bigscreen投影大屏打分端
 
 ## Project setup
 ```
